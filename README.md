@@ -2,7 +2,7 @@
 
 **Welcome to the Repository !!!**
 
-In this repository, you will find the source code for machine learning projects Task3 completed during my CodeAlpha internship.
+In this repository, you will find the source code for machine learning projects **Task3** = **Handwritten Character Recognition** completed during my **CodeAlpha internship**.
 
 Below is an overview of each project:
 
